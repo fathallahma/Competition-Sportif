@@ -8,7 +8,7 @@
  - Groupe : 7
 
 
- ## **Introduction**
+ ## **Introduction.**
 
  Le projet porte sur la création d'une application permettant d'organiser une compétition sportive et de la faire jouer.
 
